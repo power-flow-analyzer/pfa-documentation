@@ -1,0 +1,14 @@
+site_name: PowerFlowAnalyzer
+nav:
+    - Home: 'index.md'
+    - Getting Started: 'getting-started/index.md'
+#    - Overview:
+#       - Introduction: 'overview/introduction.md'
+#       - Visualisations: 'overview/visualisations.md'
+#       - Matlab Scripts: 'overview/matlab.md'
+#    - Tutorials:
+#       - Matpower functions and data: 'matpower.md'
+#       - UCTE DEF file import: 'ucte_def.md'
+#       - SciGrid data import: 'tutorial/ScriGRID_tutorial.md'
+    - About:
+       - License: 'license.md'
