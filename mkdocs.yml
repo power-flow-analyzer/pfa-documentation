@@ -1,4 +1,4 @@
-site_name: PowerFlowAnalyzer
+site_name: Power Flow Analyzer
 nav:
     - Home: 'index.md'
     - Getting Started: 'getting-started/index.md'
