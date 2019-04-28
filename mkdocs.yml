@@ -10,5 +10,7 @@ nav:
 #       - Matpower functions and data: 'matpower.md'
 #       - UCTE DEF file import: 'ucte_def.md'
 #       - SciGrid data import: 'tutorial/ScriGRID_tutorial.md'
-    - About:
-       - License: 'license.md'
+    - License:
+       - Apache License Version 2.0: 'license/license.md'
+       - Notice file: 'license/notice.md'
+    - Github: 'https://github.com/power-flow-analyzer'
