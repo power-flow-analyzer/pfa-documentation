@@ -4,7 +4,8 @@
 
 ## Download and Start
 
-Download the current release from Github and unzip the file. A new folder `PowerFlowAnalyzer-<VERSION>` will be created. The final name is version dependant (e.g. `PowerFlowAnalyzer-2.3.0`).
+Download a release from the [release page](https://github.com/power-flow-analyzer/PowerFlowAnalyzer/releases)
+(e.g. [PowerFlowAnalyzer-2.3.0.zip](https://github.com/power-flow-analyzer/PowerFlowAnalyzer/releases/download/2.3.0/PowerFlowAnalyzer-2.3.0.zip)) and unzip the file. A new folder `PowerFlowAnalyzer-<VERSION>` will be created. The final name is version dependant (e.g. `PowerFlowAnalyzer-2.3.0`).
 
 Open the newly created folder and execute the start script in Matlab:
 ```matlab
